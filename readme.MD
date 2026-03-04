@@ -11,4 +11,7 @@
 
 # Egg Dosa
 * Dosa Batter
-* Egg and Karam
+* 1/2 egg and Karam
+
+## Panner Dosa
+* Dosa Batter
